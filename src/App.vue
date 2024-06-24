@@ -1,5 +1,5 @@
 <template>
-    <h1>Tasklist</h1>
+    <h1>- TASKLIST -</h1>
     <TaskList/>
 </template>
 
