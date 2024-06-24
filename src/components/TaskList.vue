@@ -4,7 +4,7 @@
             <thead>
                 <tr>
                     <td colspan="3">
-                        <input type="text" placeholder="New task" v-model="name">
+                        <input type="text" maxlength="30" placeholder="New task" v-model="name">
                         <button v-on:click="addTask">+</button>
                     </td>
                 </tr>
@@ -71,7 +71,7 @@ export default {
 
 .tasks table {
     margin: 0; padding: 0;
-    border-collapse: separate;
+    width: 400px;
 }
 
 .tasks tbody {
@@ -118,5 +118,15 @@ export default {
 .trash {
     padding: 0; margin: 0;
     cursor: pointer;
+}
+
+@media (max-width: 450px) {
+    .tasks table {
+        width: 300px;
+    }
+
+    .tasks thead td input {
+        width: fit-content;
+    }
 }
 </style>
