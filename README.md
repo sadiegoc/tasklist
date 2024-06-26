@@ -30,7 +30,7 @@ $ cd tasklist
 ### Uso
 ```bash
 # inicie o json-server
-$ json-server --watch database/database.json
+$ npm run start
 
 # inicie o vue
 $ npm run serve
