@@ -1,5 +1,5 @@
 <h1 align="center">- TASKLIST -</h1>
-<p align="justify">Este projeto consiste numa lista de tarefas desenvolvida com Vue, json-server e Axios. O objetivo foi criar uma aplicação Web simples e responsiva onde o usuário possa gerenciar suas tasks diárias, i. e., é possível adicionar novas tarefas, deletar, marcar como concluídas e editar.</p>
+<p align="justify">Este projeto consiste numa lista de tarefas desenvolvida com Vue, json-server e Axios. O objetivo foi criar uma aplicação Web simples e responsiva onde o usuário possa gerenciar suas tasks diárias, i. e., ser capaz de adicionar novas tarefas, deletar, marcar como concluídas e editar.</p>
 
 <p align="center">
  <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
