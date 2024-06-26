@@ -8,14 +8,6 @@
  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"/>
 </p>
 
-### Clone o repositório
-```bash
-# clone este repositório
-$ git clone https://github.com/sadiegoc/tasklist.git
-
-# acesse a pasta
-$ cd tasklist
-```
 ### Pré-requisitos
 ```bash
 # install vue
@@ -26,6 +18,14 @@ $ npm install axios
 
 # install json-server
 $ npm install json-server
+```
+### Clone o repositório
+```bash
+# clone este repositório
+$ git clone https://github.com/sadiegoc/tasklist.git
+
+# acesse a pasta
+$ cd tasklist
 ```
 ### Uso
 ```bash
