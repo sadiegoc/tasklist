@@ -11,7 +11,7 @@
 ### Pré-requisitos
 ```bash
 # install vue
-$ npm install @vue/cli
+$ npm install vue
 
 # install axios
 $ npm install axios
